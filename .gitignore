@@ -1,0 +1,3 @@
+# Ignore subdirectories that are their own git repositories
+tattoo_search_engine/
+tattoo_search_engine_frontend/
