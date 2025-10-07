@@ -1,0 +1,6 @@
+[submodule "tattoo_search_engine"]
+	path = tattoo_search_engine
+	url = https://huggingface.co/spaces/onurcopur/tattoo_search_engine
+[submodule "tattoo_search_engine_frontend"]
+	path = tattoo_search_engine_frontend
+	url = https://github.com/CopurOnur/tattoo_search_engine_frontend.git

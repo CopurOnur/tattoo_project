@@ -1,3 +1,2 @@
-# Ignore subdirectories that are their own git repositories
-tattoo_search_engine/
-tattoo_search_engine_frontend/
+# Git submodules are tracked via .gitmodules
+# Add any files you want to ignore here
