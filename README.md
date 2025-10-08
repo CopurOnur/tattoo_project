@@ -3,7 +3,7 @@
 An intelligent tattoo search engine that uses state-of-the-art computer vision models to find visually similar tattoo designs. Upload an image and discover matching tattoos from across the web with advanced patch-level attention analysis.
 
 [![Live Demo](https://img.shields.io/badge/Live-Demo-blue)](https://tattoo-search-frontend.vercel.app)
-[![Backend API](https://img.shields.io/badge/API-Hugging%20Face-yellow)](https://onurcopur-tattoo-search-engine.hf.space)
+[![Backend API](https://img.shields.io/badge/API-Hugging%20Face-yellow)](https://huggingface.co/spaces/onurcopur/tattoo_search_engine)
 
 ## ✨ Features
 
