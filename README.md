@@ -16,7 +16,7 @@ An intelligent tattoo search engine that uses state-of-the-art computer vision m
 
 ## 🚀 Live Demo
 
-- **Frontend**: [https://tattoo-search-frontend.vercel.app](https://tattoo-search-frontend.vercel.app)
+- **Frontend**: [https://tattoo-search-engine-frontend.vercel.app](https://tattoo-search-engine-frontend.vercel.app)
 - **Backend API**: [https://huggingface.co/spaces/onurcopur/tattoo_search_engine/tree/main](https://huggingface.co/spaces/onurcopur/tattoo_search_engine/tree/main)
 
 ## 🏗️ Architecture
